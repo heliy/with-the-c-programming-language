@@ -1,5 +1,0 @@
-#include<stdio.h>
-
-main(){
-  printf("Try to print \\c:\c\n");
-}
