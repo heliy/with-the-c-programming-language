@@ -7,7 +7,7 @@
 
 main()
 {
-  float fathr,celsius;
+  float fahr,celsius;
   int from,to,step;
 
   printf("%s\t%s\n","Celsius","Fahrenheit");
@@ -19,8 +19,8 @@ main()
   celsius=from;
   while(celsius <= to)
   {
-    fathr=(celsius * 9.0) / 5.0 +32.0;
-    printf("%3.0f\t%6.2f\n", celsius , fathr);
+    fahr=(celsius * 9.0) / 5.0 +32.0;
+    printf("%3.0f\t%6.2f\n", celsius , fahr);
     celsius = celsius + step;  
   }
 }
