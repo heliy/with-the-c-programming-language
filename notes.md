@@ -13,8 +13,19 @@ p22
 
 Exercise 1-16 用指针解决，希望有更好的方法
 
+# 1-23未考虑转义字符- -、、
+
 # 1-24暂放
 
+c头文件在/usr/include下
 
+打印unsigned long :ul(类推  ?
+# 2-1尚有问题
+
+>the value of the right side is converted to the type of the left,which is the type of the result.
+
+(type name)expression
+
+0x与0X的区别？？？
 
 
