@@ -19,13 +19,16 @@ Exercise 1-16 用指针解决，希望有更好的方法
 
 c头文件在/usr/include下
 
-打印unsigned long :ul(类推  ?
+### 打印unsigned long? 2-6/7/8
+
 # 2-1尚有问题
 
 >the value of the right side is converted to the type of the left,which is the type of the result.
 
 (type name)expression
 
-0x与0X的区别？？？
+0x与0X的区别？？？ <-没区别
+
+### 2-8：查limits.h里int为32bit <-这着好损
 
 
