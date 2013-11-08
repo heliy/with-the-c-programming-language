@@ -31,4 +31,10 @@ c头文件在/usr/include下
 
 ### 2-8：查limits.h里int为32bit <-这着好损
 
+### 查看运行时间 3-1
+
+acsii表 3-2
+
+3-4 转换为unsigned
+
 
