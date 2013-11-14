@@ -11,7 +11,7 @@ void reverse(char s[]){
     s[i]=s[j];
     s[j]=c;
   }
-}
+
 
 void itob(int n,char s[],int b){
   int i=0,sign=0;
