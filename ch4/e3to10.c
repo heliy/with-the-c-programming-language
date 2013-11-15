@@ -136,7 +136,7 @@ void ungetch(int);
 int getop(char s[]){
   int i,c;
   int sign=0;
-  while((s[0]=c=getch())==' '||c=='\t')
+  while((s[0]=c)==' '||c=='\t')
     ;
   s[1]='\0';
   if(c-'a'<26&&c>='a'&&vars[c-'a']!='\0')
