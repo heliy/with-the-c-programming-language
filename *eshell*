@@ -1,0 +1,15 @@
+Welcome to the Emacs shell
+
+~/pro/prac/cprolang $ git add -A
+~/pro/prac/cprolang $ git commit -m "ch5 over[."
+[master 730caf8] ch5 over[.
+ 2 files changed, 97 insertions(+)
+ create mode 100644 ch5/dcl.c
+~/pro/prac/cprolang $ mkdir ch6
+~/pro/prac/cprolang $ cd ch6
+~/pro/prac/cprolang/ch6 $ ls
+keys.c  keys.c~  point.c  point.c~
+~/pro/prac/cprolang/ch6 $ mv keys.c e1keywords.c
+~/pro/prac/cprolang/ch6 $ ls
+e1keywords.c  keys.c~  point.c  point.c~
+~/pro/prac/cprolang/ch6 $  
