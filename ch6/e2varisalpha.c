@@ -104,7 +104,7 @@ void add2list(struct varigroup *r,char *w)
 }
 
 
-char *keys[]={"auto","short","int","long","float","double","char","struct","union","enum","typedef","const","unsigned","signed","extern","register","static","volatile","void","if","else","switch","for","do","while","goto","continue","break","default","sizeof","return",'\0'} 　　
+char *keys[]={"auto","short","int","long","float","double","char","struct","union","enum","typedef","const","unsigned","signed","extern","register","static","volatile","void","if","else","switch","for","do","while","goto","continue","break","default","sizeof","return"} 　　
 int isvari(char *w){
   if(!isalphs(w[0]))
     return 0;
