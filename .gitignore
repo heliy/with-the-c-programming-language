@@ -1,5 +1,6 @@
 # c output
 *.out
+*.exe
 test.c
 .vscode/*
 
