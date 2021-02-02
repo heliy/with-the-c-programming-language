@@ -1,6 +1,7 @@
 # c output
 *.out
 test.c
+.vscode/*
 
 *~
 \#*\#
